@@ -1,0 +1,29 @@
+#main{
+    -fx-background-image: url("mm.jpg");
+    -fx-background-size: 1275 690;
+}
+#main1{
+        -fx-background-size: 1275 690;
+}
+#names{
+    -fx-background-color: grey;
+    -fx-text-fill:white;
+    -fx-font-size:20px;
+    -fx-font-family:Arial;
+    -fx-font-weight:bold;
+}
+.button{
+    -fx-background-color:Transparent;
+    -fx-font-size:20px;
+    -fx-font-family:Arial;
+    -fx-font-weight:bold;
+}
+.button:hover{
+     -fx-background-color:grey;
+}
+#mus{
+    -fx-background-color: transparent ;
+}
+#mus:hover{
+    -fx-background-color:white;
+}
